@@ -1,0 +1,11 @@
+.LayoutDashboard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+}
+
+.Polaris-TopBar__Logo, .Polaris-Text--subdued {
+  filter: invert(1);
+}
